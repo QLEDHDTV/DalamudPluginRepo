@@ -1,0 +1,24 @@
+{
+  "Author": "QLEDHDTV",
+  "Name": "Phlegma Dilemma",
+  "InternalName": "Phlegma Dilemma",
+  "AssemblyVersion": "0.2.1.2",
+  "Description": "Rangefinder and shapefinder for skills and actions.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/QLEDHDTV/PhlegmaDilemma",
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "https://github.com/QLEDHDTV/PhlegmaDilemma/blob/master/docs/images/icon.png",
+  "Punchline": "Phlegma at 6 yalms is a crime.",
+  "Changelog": "Initial release (0.2.1.2)",
+  "AcceptsFeedback": true
+}

@@ -54,8 +54,9 @@ def extract_manifests():
     manifests = []
 
     for dirpath, dirnames, filenames in os.walk('./plugins'):
-        plugin_name = dirpath.split('/')[-1]
+        plugin_name = os.path.basename(dirpath)
         if len(filenames) == 0 or f'{plugin_name}.json' not in filenames:
+            print(f'No manifest found for {plugin_name}, skipping')
             continue
         with open(f'{dirpath}/{plugin_name}.json', 'r') as f:
             manifest = json.load(f)
@@ -76,7 +77,7 @@ def add_extra_fields(manifests):
             for k in keys:
                 if k not in manifest:
                     manifest[k] = manifest[source]
-        manifest['DownloadCount'] = get_release_download_count('UnknownX7', manifest["InternalName"], manifest['AssemblyVersion'])
+        manifest['DownloadCount'] = get_release_download_count('QLEDHDTV', manifest["InternalName"], manifest['AssemblyVersion'])
 
 def get_release_download_count(username, repo, id):
     r = requests.get(GITHUB_RELEASES_API_URL.format(username, repo, id))
