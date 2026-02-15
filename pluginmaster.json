@@ -7,7 +7,7 @@
         "Changelog": "Initial release (0.1)",
         "InternalName": "Jumpscarefantasyxiv",
         "AssemblyVersion": "0.1",
-        "RepoUrl": "https://github.com/QLEDHDTV/PhlegmaDilemma",
+        "RepoUrl": "https://github.com/QLEDHDTV/jumpscare-fantasy-xiv",
         "ApplicableVersion": "any",
         "CategoryTags": [
             "utility"
@@ -17,11 +17,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/QLEDHDTV/PhlegmaDilemma/releases/download/v0.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/QLEDHDTV/jumpscare-fantasy-xiv/releases/download/v0.1/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/QLEDHDTV/PhlegmaDilemma/releases/download/v0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/QLEDHDTV/PhlegmaDilemma/releases/download/v0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/QLEDHDTV/jumpscare-fantasy-xiv/releases/download/v0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QLEDHDTV/jumpscare-fantasy-xiv/releases/download/v0.1/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1771174710"
     },
