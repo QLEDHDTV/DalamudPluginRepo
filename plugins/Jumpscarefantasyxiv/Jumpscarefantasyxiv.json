@@ -1,0 +1,24 @@
+{
+	"Author": "QLEDHDTV",
+	"Name": "Jumpscare Fantasy XIV",
+	"InternalName": "Jumpscarefantasyxiv",
+	"AssemblyVersion": "0.1",
+	"Description": "1 in 10000 chance every second for Foxy jumpscare but in XIV.",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/QLEDHDTV/PhlegmaDilemma",
+	"CategoryTags": [
+		"utility"
+	],
+	"DalamudApiLevel": 14,
+	"LoadRequiredState": 0,
+	"LoadSync": false,
+	"CanUnloadAsync": false,
+	"LoadPriority": 0,
+	"ImageUrls": [
+		""
+	],
+	"IconUrl": "",
+	"Punchline": "When live lacks a thrill.",
+	"Changelog": "Initial release (0.1)",
+	"AcceptsFeedback": true
+}

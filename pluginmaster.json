@@ -1,6 +1,32 @@
 [
     {
         "Author": "QLEDHDTV",
+        "Name": "Jumpscare Fantasy XIV",
+        "Punchline": "When live lacks a thrill.",
+        "Description": "1 in 10000 chance every second for Foxy jumpscare but in XIV.",
+        "Changelog": "Initial release (0.1)",
+        "InternalName": "Jumpscarefantasyxiv",
+        "AssemblyVersion": "0.1",
+        "RepoUrl": "https://github.com/QLEDHDTV/PhlegmaDilemma",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/QLEDHDTV/PhlegmaDilemma/releases/download/v0.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/QLEDHDTV/PhlegmaDilemma/releases/download/v0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QLEDHDTV/PhlegmaDilemma/releases/download/v0.1/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1771174710"
+    },
+    {
+        "Author": "QLEDHDTV",
         "Name": "Phlegma Dilemma",
         "Punchline": "Phlegma at 6 yalms is a crime.",
         "Description": "Rangefinder and shapefinder for skills and actions.",
@@ -12,7 +38,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 14,
         "IconUrl": "",
         "ImageUrls": [
             ""
@@ -22,7 +48,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/QLEDHDTV/PhlegmaDilemma/releases/download/v0.2.1.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/QLEDHDTV/PhlegmaDilemma/releases/download/v0.2.1.2/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 3,
         "LastUpdate": "1745787405"
     }
 ]
